@@ -1,0 +1,21 @@
+﻿  BankAccount.cpp
+  Bankomat.cpp
+  Date1.cpp
+  Date2.cpp
+  Drobi.cpp
+C:\Users\janso\source\repos\cpp-individual-tasks-gorin\cpp-individual-tasks-gorin\Drobi.cpp(17,25): warning C4101: y2: неиспользованная локальная переменная
+C:\Users\janso\source\repos\cpp-individual-tasks-gorin\cpp-individual-tasks-gorin\Drobi.cpp(17,29): warning C4101: y3: неиспользованная локальная переменная
+C:\Users\janso\source\repos\cpp-individual-tasks-gorin\cpp-individual-tasks-gorin\Drobi.cpp(17,17): warning C4101: x3: неиспользованная локальная переменная
+C:\Users\janso\source\repos\cpp-individual-tasks-gorin\cpp-individual-tasks-gorin\Drobi.cpp(17,13): warning C4101: x2: неиспользованная локальная переменная
+  main.cpp
+C:\Users\janso\source\repos\cpp-individual-tasks-gorin\cpp-individual-tasks-gorin\test.h(1,13): warning C4081: требуется "newline"; обнаружен "["
+C:\Users\janso\source\repos\cpp-individual-tasks-gorin\cpp-individual-tasks-gorin\main.cpp(177,47): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\janso\source\repos\cpp-individual-tasks-gorin\cpp-individual-tasks-gorin\main.cpp(184,36): warning C4305: аргумент: усечение из "double" в "float"
+  Payment.cpp
+C:\Users\janso\source\repos\cpp-individual-tasks-gorin\cpp-individual-tasks-gorin\Payment.cpp(25,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\janso\source\repos\cpp-individual-tasks-gorin\cpp-individual-tasks-gorin\Payment.cpp(30,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\janso\source\repos\cpp-individual-tasks-gorin\cpp-individual-tasks-gorin\Payment.cpp(35,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  test.cpp
+C:\Users\janso\source\repos\cpp-individual-tasks-gorin\cpp-individual-tasks-gorin\test.h(1,13): warning C4081: требуется "newline"; обнаружен "["
+  Создание кода...
+  cpp-individual-tasks-gorin.vcxproj -> C:\Users\janso\source\repos\cpp-individual-tasks-gorin\Debug\cpp-individual-tasks-gorin.exe
